@@ -9,7 +9,7 @@
 
 ### 🌱 현재
 - 정보보안 심화 학습
-- TOEIC Speaking 및 일본어 자격증 준비 중
+- 영어 및 일본어 어학 관련 자격 준비 중
 
 ### 💬 관심 기술
 - Endpoint Security (DLP, NAC, Web Isolation 등)
