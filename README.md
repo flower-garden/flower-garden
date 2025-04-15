@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 김정민 (Jungmin Kim)
+# 👋 Hi, I'm 김정민 (JeongMin Kim)
 
 안녕하세요!  
 정보보안 분야에서 실무 경험을 쌓아온 김정민입니다.
